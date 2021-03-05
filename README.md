@@ -1,5 +1,6 @@
 # covid_solution
 Solution for Covid-19 pandemic <br>
+This is a web application <br>
 
 __Corona Virus outbreak in India__ <br>
 A programming based solution for the pandemic is as below:<br>
