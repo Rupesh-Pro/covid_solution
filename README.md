@@ -7,7 +7,7 @@ A programming based solution for the pandemic is as below:<br>
 __The Idea__<br>
 >- The idea is to stop the transmission by prioritizing tests and hence detecting the cases quickly.<br>
 >- Data can be collected on the behalf of symptoms of COVID-19.<br>
->- Then a machine learning model is trained on the data to find out the probability of a person having the infection.<br> <br>
+>- Then a machine learning model is trained on the data to find out the probability of a person having the infection.<br> 
 >- The model is then used to find out whom to test for the infection first under a limited testing capacity. <br>
 >- The same model can be used to find potential candidates for conducting random tests. <br>
 
@@ -40,19 +40,19 @@ __Machine learning model parameters__  <br>
 >- Probability of Covid-19 infection <br>
 
 __Technology used__ <br>
- >__Frame work__ <br>
-    >- Flask/Django <br>
- >__Frontend__ <br>
-     >- HTML <br>
-     >- CSS <br>
-     >- JS <br>
- >__Backend__ <br>
-     >- Python <br>
- >__Python Libraries__ <br>
-     >- Pandas <br>
-     >- Scikitlearn <br>
-     >- Pickle <br>
+ >__Frame work__: <br>
+    Flask/Django <br>
+ >__Frontend__: <br>
+    HTML <br>
+    CSS <br>
+    JS <br>
+ >__Backend__: <br>
+    Python <br>
+ >__Python Libraries__: <br>
+    Pandas <br>
+    Scikitlearn <br>
+    Pickle <br>
  >__Machine learning__ <br>
- >__IDE__ <br>
-     >- Jupyter Notebook <br>
-     >- Visual Studio Code <br>
+ >__IDE__: <br>
+    Jupyter Notebook <br>
+    Visual Studio Code <br>
